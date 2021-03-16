@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aisling-Connaughton/react-todo-app.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Aisling-Connaughton/react-todo-app.git/static/js/main.29a30407.chunk.js",
+    "main.js.map": "/Aisling-Connaughton/react-todo-app.git/static/js/main.29a30407.chunk.js.map",
+    "runtime-main.js": "/Aisling-Connaughton/react-todo-app.git/static/js/runtime-main.7f134a22.js",
+    "runtime-main.js.map": "/Aisling-Connaughton/react-todo-app.git/static/js/runtime-main.7f134a22.js.map",
+    "static/js/2.4223afb0.chunk.js": "/Aisling-Connaughton/react-todo-app.git/static/js/2.4223afb0.chunk.js",
+    "static/js/2.4223afb0.chunk.js.map": "/Aisling-Connaughton/react-todo-app.git/static/js/2.4223afb0.chunk.js.map",
+    "static/js/3.8b61360d.chunk.js": "/Aisling-Connaughton/react-todo-app.git/static/js/3.8b61360d.chunk.js",
+    "static/js/3.8b61360d.chunk.js.map": "/Aisling-Connaughton/react-todo-app.git/static/js/3.8b61360d.chunk.js.map",
+    "index.html": "/Aisling-Connaughton/react-todo-app.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Aisling-Connaughton/react-todo-app.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4223afb0.chunk.js.LICENSE.txt": "/Aisling-Connaughton/react-todo-app.git/static/js/2.4223afb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f134a22.js",
+    "static/js/2.4223afb0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.29a30407.chunk.js"
+  ]
+}
